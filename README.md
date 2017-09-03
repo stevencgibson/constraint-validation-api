@@ -21,6 +21,7 @@ Here, we display an error that is:
 - a consistent message across browsers
 - styled consistently across browsers
 
+![screenshot of form errors](https://raw.githubusercontent.com/stevencgibson/constraint-validation-api/master/screen.jpg)
 
 ## Geting started
 
