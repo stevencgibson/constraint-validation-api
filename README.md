@@ -23,7 +23,7 @@ Here, we display an error that is:
 
 ![screenshot of form errors](https://raw.githubusercontent.com/stevencgibson/constraint-validation-api/master/screen.jpg)
 
-## Geting started
+## Getting started
 
 ```
 npm install
