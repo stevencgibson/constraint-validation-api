@@ -1,0 +1,24 @@
+{
+  "name": "constraint-validation-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Form.js",
+  "scripts": {
+    "start": "concurrently \"http-server -a localhost -p 8000\" \"open http://localhost:8000\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevencgibson/constraint-validation-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevencgibson/constraint-validation-api/issues"
+  },
+  "homepage": "https://github.com/stevencgibson/constraint-validation-api#readme",
+  "devDependencies": {
+    "concurrently": "3.5.0",
+    "http-server": "0.10.0"
+  }
+}
